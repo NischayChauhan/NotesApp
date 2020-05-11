@@ -21,7 +21,7 @@ This app can be deployed on play store.
 * JAVA
 
 ## View on phone
-<img src="https://github.com/NischayChauhan/BarApp/blob/master/phone_1.png" width="350" height="600"> 
+<img src="https://github.com/NischayChauhan/NotesApp/blob/master/2.gif" width="350" height="600"> 
 ## Authors
 
 * **Nischay Chauhan** - [linkedin](https://www.linkedin.com/in/nischaychauhan/)
