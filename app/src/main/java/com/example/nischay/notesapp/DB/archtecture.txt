@@ -1,0 +1,30 @@
+
+
+                                        Activity/Fargment           - - - - > View
+                                                |
+                                                |
+                                               \ /
+                                            View Model              - - - - > ViewModel
+                                                |
+                                                |
+                                               \ /
+                                            Repository              - - - - > Model
+                                                |
+                                                |
+                                   - - - - - - - -- - - - - - -
+                                  |                            |
+                                 \ /                          \ /
+
+- - - - - - - - - - - - - - - - Room- - -                       Web Service
+                                        |
+    Entity[Table]                       |
+       |                                |
+      \ /                               |
+   SQLITE ---> DAO[Data Access Object]  |
+- - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+
